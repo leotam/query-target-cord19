@@ -9,7 +9,9 @@ We make first strides in answering these questions in light of the practical app
 ## How to cite
 Pending the Arxiv submission, please cite:
 
-```@inproceedings{Transformer Query-Target Knowledge Discovery,
+```
+{
+    @inproceedings{Transformer Query-Target Knowledge Discovery,
     author = {Tam, Leo K., Wang, Xiaosong, Xu, Daguang},
     title = {Transformer Query-Target Knowledge Discovery (TEND): Drug Discovery from CORD-19},
     year = {2020},
@@ -17,7 +19,8 @@ Pending the Arxiv submission, please cite:
     location = {NVIDIA, Santa Clara, CA, USA}, 
     note={DLMed Research Group},
     howpublished = {\url{https://github.com/leotam/query-target-cord19}}
-}```
+}
+```
 
 Note: We've hardlinked the outputs in the notebook below pending release of the model.
 
