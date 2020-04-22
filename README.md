@@ -9,7 +9,9 @@ We make first strides in answering these questions in light of the practical app
 ## How to cite
 Pending the Arxiv submission, please cite:
 
-```@inproceedings{Transformer Query-Target Knowledge Discovery,
+```
+{
+    @inproceedings{Transformer Query-Target Knowledge Discovery,
     author = {Tam, Leo K., Wang, Xiaosong, Xu, Daguang},
     title = {Transformer Query-Target Knowledge Discovery (TEND): Drug Discovery from CORD-19},
     year = {2020},
